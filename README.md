@@ -13,6 +13,6 @@ Understanding, Characterizing, and Classifying the Root Cause of Bugs)[https://a
 
 ## Made by 
 
-Ridhima Kohli
+Ridhima Kohli and
 Surbhi Dua
 
