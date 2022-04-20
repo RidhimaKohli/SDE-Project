@@ -5,9 +5,11 @@ Understanding, Characterizing, and Classifying the Root Cause of Bugs)[https://a
 
 ## About Code
 
-sdeBert.ipynb : Contains classification using BERT algorithm of Google
-sdespacy.ipynb : Contains classification using four models : Logistic regression , Random forest classification , Naive Bayes and Support Vector Machine by integrating them with spacy pre-processing functions in a pipeline
-sdeRplots.ipynb : Contains boxplots of time analysis for different classes of bugs using R
+- sdeBert.ipynb : Contains classification using BERT algorithm of Google
+
+- sdespacy.ipynb : Contains classification using four models : Logistic regression , Random forest classification , Naive Bayes and Support Vector Machine by integrating them with spacy pre-processing functions in a pipeline
+
+- sdeRplots.ipynb : Contains boxplots of time analysis for different classes of bugs using R
 
 ## Made by 
 
